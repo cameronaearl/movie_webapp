@@ -3,7 +3,7 @@
 }
 
 .header {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("C:\Users\Cam\Desktop\movie_webapp\movieapp_frontend\react-library\src\faraway.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("C:\Users\Cam\Desktop\movie_webapp\movieapp_frontend\react-library\src\Images\faraway.jpg");
     opacity: var(--mainOpacity);
     height: 25em !important;
 }
